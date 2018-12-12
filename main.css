@@ -1,0 +1,44 @@
+body {
+	background-color: #9DA9A0;
+	text-align: center;
+}
+
+.title {
+	text-align: center;
+	color: #654C4F;
+	font-size: 45px
+	padding: 25px;
+	background-color: #CEC075;
+	margin: 20px 500px 20px 500px;
+}
+
+.subtitle {
+	text-align: center;
+	color: #654C4F;
+	padding: 25px;
+	background-color: #CEC075;
+	margin: 10px 500px 10px 500px;
+}
+
+.content {
+	color: #B26E63;
+	font-size: 20px;
+	text-align: left;
+}
+
+img {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.hola {
+	margin: 0x 50px;
+	padding: 50px;
+	background-color: #CEC075;
+}
+
+.logo {
+ height: 200px;
+ width: 1425px;
+ padding: 50px 0px 50px 0px;
+}
